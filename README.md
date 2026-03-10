@@ -1,0 +1,1 @@
+A digital system that uses a camera input to track lanes from a video feed in real time. The system will offload computationally intensive AI tasks to the FPGA, while the CPU handles image acquisition
